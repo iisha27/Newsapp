@@ -6,7 +6,7 @@ import News from './Components/News';
 import LoadingBar from 'react-top-loading-bar'
 
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
 }from "react-router-dom"; 
